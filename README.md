@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/na/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Na](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/na/) |
+| **Get License** | [License this song: Na](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/na/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক মায়ায় মন খুঁজে ফেরে তোমায়
+> হারানো সেই সুর যেন ফিরে আসে এ হাওয়ায়
+> রাতের এই নিস্তব্ধতা বলে শুধু তোমার কথা
+> না বলা এক অনুভবে মিশে আছে নীরব ব্যথা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
